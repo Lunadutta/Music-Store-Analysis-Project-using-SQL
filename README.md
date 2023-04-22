@@ -1,5 +1,5 @@
 # Music-Store-Analysis-Project-using-SQL
-# Music-Store-Analysis-Project-using-SQL
+
 
 /*	Question Set 1 - Easy */
 
